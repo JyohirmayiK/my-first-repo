@@ -1,3 +1,0 @@
-name	: Kakinada jyothirmayi
-Course	: BCA
-It is easy to understand,easy to run 
